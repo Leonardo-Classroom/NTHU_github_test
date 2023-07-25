@@ -2,9 +2,13 @@
 
 using namespace std;
 
+void functionA();
+void functionB();
+
 int main(int argc, char const *argv[]){
 
-    
+    functionA();
+    functionB();
     
     return 0;
 }
