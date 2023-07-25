@@ -12,3 +12,6 @@ int main(int argc, char const *argv[]){
 void functionA(){
     cout << "Function A" << endl;
 }
+void functionB(){
+    cout << "functionB" << endl;
+}
