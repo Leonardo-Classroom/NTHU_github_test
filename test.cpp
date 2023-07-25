@@ -13,5 +13,5 @@ void functionA(){
     cout << "Function A" << endl;
 }
 void functionB(){
-    cout << "functionB" << endl;
+    cout << "function B" << endl;
 }
